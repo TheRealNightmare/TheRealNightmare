@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miraz</h1>
 - 📫 How to reach me **nnahid929@gmail.com**
-
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nightmare496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nightmare496" height="30" width="40" /></a>
