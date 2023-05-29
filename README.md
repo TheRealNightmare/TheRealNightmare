@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Miraz</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealnightmare" alt="therealnightmare" /></a> </p>
 
 - 📫 How to reach me **nnahid929@gmail.com**
