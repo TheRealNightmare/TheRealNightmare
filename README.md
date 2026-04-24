@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUzMTE5MDBlYzk5MWNkYjAwNDEzM2RkYWMzYThhM2NlMmExOWQyMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="100"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+there+I+am+mirazul;always+learning+new+things;brain+processing...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=hi+there+I+am+mirazul;always+exploring+and+learning;brain+processing...)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,nuxtjs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,nextjs&theme=dark"/>
 
 <br/>
 
@@ -44,15 +44,15 @@
 
 <br/>
 
-**📱 Mobile & Embedded**
+**📱 Mobile & Embed**
 
-<img src="https://skillicons.dev/icons?i=ionic,androidstudio,arduino&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino&theme=dark"/>
 
 <br/>
 
 **☁️ DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux&theme=dark"/>
 
 </div>
 
