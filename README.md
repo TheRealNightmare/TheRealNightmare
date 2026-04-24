@@ -1,8 +1,10 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUzMTE5MDBlYzk5MWNkYjAwNDEzM2RkYWMzYThhM2NlMmExOWQyMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="100"/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hi+there+I+am+mirazul;always+learning+new+things;brain+processing...)](https://git.io/typing-svg)
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/mirazul-islam-09b025213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,37 +16,56 @@
   </a>
 </div>
 
-<div id="badges" align="center">
-  <img  src="https://komarev.com/ghpvc/?username=TheRealNightmare&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheRealNightmare&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="c++" alt="c++" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/capacitor/capacitor-original.svg" title="Capacitor" alt="Capacitor" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJs" alt="NuxtJs" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40">
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,php,java,py,js,bash&theme=dark"/>
+
+<br/>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,nuxtjs&theme=dark"/>
+
+<br/>
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=flask,django,laravel,fastapi&theme=dark"/>
+
+<br/>
+
+**📱 Mobile & Embedded**
+
+<img src="https://skillicons.dev/icons?i=ionic,androidstudio,arduino&theme=dark"/>
+
+<br/>
+
+**☁️ DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git&theme=dark"/>
+
 </div>
 
 ---
 
-### :fire: My Stats :
+## 📊 My Stats
+
+<div align="center">
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TheRealNightmare?cardType=octocat&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheRealNightmare&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealNightmare&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
