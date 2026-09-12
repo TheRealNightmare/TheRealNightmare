@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 208" width="880" height="208" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="208" fill="#0D0D0D"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">02</text>
+  <text x="54" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#2A2A2A">//</text>
+  <text x="82" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6" letter-spacing="2.4">CURRENTLY</text>
+  <rect x="24" y="60" width="832" height="124" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="24" y="60" width="2" height="124" fill="#FFDC58"/>
+  <text x="50" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
+  <text x="68" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">learning</text>
+  <text x="152" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">built micrograd from scratch — autograd, backprop, the lot</text>
+  <text x="50" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
+  <text x="68" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">training</text>
+  <text x="152" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">working through PyTorch and transformer fine-tuning</text>
+  <text x="50" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
+  <text x="68" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">next</text>
+  <text x="152" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">shipping models into the apps I already build</text>
+</svg>

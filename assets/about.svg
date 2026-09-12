@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 308" width="880" height="308" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="308" fill="#0D0D0D"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">01</text>
+  <text x="54" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#2A2A2A">//</text>
+  <text x="82" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6" letter-spacing="2.4">WHOAMI</text>
+  <rect x="24" y="60" width="832" height="224" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="24" y="60" width="2" height="224" fill="#A3E636"/>
+  <text x="50" y="98" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#E6E6E6">Full-stack developer based in Dhaka, Bangladesh.</text>
+  <text x="50" y="120" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#E6E6E6">Currently building at @Moner-Bondhu.</text>
+  <text x="50" y="164" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">I build web platforms end to end — Laravel and React</text>
+  <text x="50" y="186" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">on the front, Python and PyTorch when a problem needs</text>
+  <text x="50" y="208" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">a model instead of an if-statement.</text>
+  <text x="50" y="252" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#A3E636">Always exploring, always learning, building things as I grow.</text>
+  <rect x="580" y="80" width="1" height="184" fill="#2A2A2A"/>
+  <text x="606" y="98" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">location</text>
+  <text x="684" y="98" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#A3E636">Dhaka, BD</text>
+  <text x="606" y="124" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">company</text>
+  <text x="684" y="124" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#A3E636">@Moner-Bondhu</text>
+  <text x="606" y="150" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">focus</text>
+  <text x="684" y="150" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#A3E636">web + ML</text>
+  <text x="606" y="176" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">since</text>
+  <text x="684" y="176" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#A3E636">2021</text>
+  <text x="606" y="202" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">status</text>
+  <text x="684" y="202" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#A3E636">always learning</text>
+</svg>

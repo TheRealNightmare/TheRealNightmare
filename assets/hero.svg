@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="300" fill="#0D0D0D"/>
+  <rect x="24" y="24" width="832" height="252" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="24" y="24" width="832" height="34" fill="#101010"/>
+  <rect x="24" y="58" width="832" height="1" fill="#2A2A2A"/>
+  <circle cx="44" cy="41" r="5" fill="#FF6B6B"/>
+  <circle cx="62" cy="41" r="5" fill="#FFDC58"/>
+  <circle cx="80" cy="41" r="5" fill="#A3E636"/>
+  <text x="112" y="45" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">mirazul@nightmare: ~</text>
+  <g shape-rendering="geometricPrecision">
+  <line x1="716.0" y1="75.0" x2="716.0" y2="66.0" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="762.0" y1="87.3" x2="766.5" y2="79.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="795.7" y1="121.0" x2="803.5" y2="116.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="808.0" y1="167.0" x2="817.0" y2="167.0" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="795.7" y1="213.0" x2="803.5" y2="217.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="762.0" y1="246.7" x2="766.5" y2="254.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="716.0" y1="259.0" x2="716.0" y2="268.0" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="670.0" y1="246.7" x2="665.5" y2="254.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="636.3" y1="213.0" x2="628.5" y2="217.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="624.0" y1="167.0" x2="615.0" y2="167.0" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="636.3" y1="121.0" x2="628.5" y2="116.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="670.0" y1="87.3" x2="665.5" y2="79.5" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="628" y1="167" x2="804" y2="167" stroke="#2A2A2A" stroke-width="1" opacity="0.5"/>
+  <line x1="716" y1="79" x2="716" y2="255" stroke="#2A2A2A" stroke-width="1" opacity="0.5"/>
+  <g>
+  <circle cx="716" cy="167" r="88" fill="none" stroke="#2A2A2A" stroke-width="1" stroke-dasharray="3 7"/>
+  <circle cx="765.2" cy="94.0" r="3" fill="#FFDC58"/>
+  <circle cx="674.7" cy="244.7" r="3" fill="#FFDC58"/>
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 716 167" to="360 716 167" dur="48s" repeatCount="indefinite"/>
+  </g>
+  <g>
+  <circle cx="716" cy="167" r="64" fill="none" stroke="#A3E636" stroke-width="1.2" opacity="0.35"/>
+  <circle cx="716.0" cy="103.0" r="4" fill="#A3E636"/>
+  <circle cx="765.0" cy="208.1" r="4" fill="#A3E636"/>
+  <circle cx="658.0" cy="194.0" r="4" fill="#A3E636"/>
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360 716 167" to="0 716 167" dur="32s" repeatCount="indefinite"/>
+  </g>
+  <g>
+  <circle cx="716" cy="167" r="40" fill="none" stroke="#2A2A2A" stroke-width="1"/>
+  <circle cx="729.7" cy="204.6" r="3" fill="#FFDC58"/>
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 716 167" to="360 716 167" dur="20s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="716" cy="167" r="18" fill="none" stroke="#A3E636" stroke-width="1" opacity="0.25"/>
+  <circle cx="716" cy="167" r="10" fill="#A3E636"><animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="56" y="118" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#A3E636">$ whoami</text>
+  <text x="56" y="170" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="38" font-weight="700" fill="#E6E6E6" letter-spacing="1.5">MIRAZUL ISLAM NAHID</text>
+  <text x="56" y="200" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="400" fill="#8B8B8B">full-stack developer · machine learning · always shipping</text>
+  <text x="56" y="236" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">Dhaka, Bangladesh · @Moner-Bondhu · github.com/TheRealNightmare</text>
+  <text x="56" y="262" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#A3E636">$</text>
+  <rect x="72" y="251" width="9" height="14" fill="#A3E636"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 60" width="880" height="60" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="60" fill="#0D0D0D"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">06</text>
+  <text x="54" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#2A2A2A">//</text>
+  <text x="82" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6" letter-spacing="2.4">THE NUMBERS</text>
+</svg>
