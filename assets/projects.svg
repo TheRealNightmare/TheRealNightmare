@@ -1,40 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 378" width="880" height="378" shape-rendering="crispEdges">
-  <rect x="0" y="0" width="880" height="378" fill="#0D0D0D"/>
-  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">04</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 601" width="880" height="601" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="601" fill="#0D0D0D"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">05</text>
   <text x="54" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#2A2A2A">//</text>
   <text x="82" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6" letter-spacing="2.4">FEATURED</text>
   <rect x="24" y="60" width="832" height="139" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
   <rect x="24" y="60" width="2" height="139" fill="#A3E636"/>
-  <text x="48" y="90" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#A3E636" letter-spacing="0.6">Verso 2.0</text>
-  <text x="832" y="90" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11" font-weight="400" fill="#8B8B8B">github.com/TheRealNightmare/Verso2.0</text>
-  <text x="48" y="116" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">Online book-reading and digital library platform. Read EPUB and PDF in the</text>
-  <text x="48" y="137" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">browser, read together in collaborative rooms, get AI-powered recommendations.</text>
-  <rect x="48" y="164" width="79.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="87.8" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">React 19</text>
-  <rect x="134.6" y="164" width="94" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="181.6" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Laravel 13</text>
-  <rect x="235.6" y="164" width="72.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="271.8" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">PHP 8.3</text>
-  <rect x="315" y="164" width="79.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="354.8" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Filament</text>
-  <rect x="401.6" y="164" width="50.8" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="427" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Vite</text>
-  <rect x="459.4" y="164" width="79.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="499.2" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Tailwind</text>
+  <text x="48" y="90" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#A3E636" letter-spacing="0.6">Player Koi</text>
+  <rect x="164" y="75" width="158" height="20" fill="none" stroke="#8B8B8B" stroke-width="1"/>
+  <text x="243" y="88.8" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.5" font-weight="700" fill="#8B8B8B" letter-spacing="0.8">MICROCONTROLLERS LAB</text>
+  <text x="832" y="90" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11" font-weight="400" fill="#8B8B8B">github.com/TheRealNightmare/PlayerKoi</text>
+  <text x="48" y="116" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">A chessboard that sees, thinks and moves its own pieces. A camera on a Raspberry</text>
+  <text x="48" y="137" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">Pi 5 reads your move, Stockfish answers, a magnet under the board slides the reply.</text>
+  <rect x="48" y="164" width="122.8" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="109.4" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Raspberry Pi 5</text>
+  <rect x="177.8" y="164" width="130" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="242.8" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Computer vision</text>
+  <rect x="314.8" y="164" width="65.2" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="347.4" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">YOLOv8</text>
+  <rect x="387" y="164" width="108.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="441.2" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">python-chess</text>
+  <rect x="502.4" y="164" width="86.8" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="545.8" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Stockfish</text>
+  <rect x="596.2" y="164" width="72.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="632.4" y="180.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Arduino</text>
   <rect x="24" y="215" width="832" height="139" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
-  <rect x="24" y="215" width="2" height="139" fill="#A3E636"/>
-  <text x="48" y="245" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#A3E636" letter-spacing="0.6">ScrollSense</text>
+  <rect x="24" y="215" width="2" height="139" fill="#FFDC58"/>
+  <text x="48" y="245" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#FFDC58" letter-spacing="0.6">ScrollSense</text>
+  <rect x="174.2" y="230" width="58.6" height="20" fill="none" stroke="#8B8B8B" stroke-width="1"/>
+  <text x="203.5" y="243.8" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.5" font-weight="700" fill="#8B8B8B" letter-spacing="0.8">AI LAB</text>
   <text x="832" y="245" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11" font-weight="400" fill="#8B8B8B">github.com/TheRealNightmare/ScrollSense</text>
-  <text x="48" y="271" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">Reads the sentiment of your social feed. A browser extension captures the posts</text>
-  <text x="48" y="292" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">you scroll past, a fine-tuned transformer scores each one, a dashboard charts it.</text>
-  <rect x="48" y="319" width="94" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="95" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">JavaScript</text>
-  <rect x="149" y="319" width="108.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="203.2" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Transformers</text>
-  <rect x="264.4" y="319" width="43.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="286.2" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">JWT</text>
-  <rect x="315" y="319" width="86.8" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="358.4" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Extension</text>
-  <rect x="408.8" y="319" width="86.8" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
-  <text x="452.2" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Dashboard</text>
+  <text x="48" y="271" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">Scores the mood of your feed. A Chrome extension captures what you scroll past,</text>
+  <text x="48" y="292" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">a fine-tuned XLM-RoBERTa reads code-mixed Bengali-English, a dashboard charts it.</text>
+  <rect x="48" y="319" width="72.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="84.2" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">PyTorch</text>
+  <rect x="127.4" y="319" width="101.2" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="178" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">XLM-RoBERTa</text>
+  <rect x="235.6" y="319" width="137.2" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="304.2" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Chrome extension</text>
+  <rect x="379.8" y="319" width="43.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="401.6" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">JWT</text>
+  <rect x="430.4" y="319" width="86.8" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="473.8" y="335.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Dashboard</text>
+  <rect x="24" y="370" width="832" height="139" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="24" y="370" width="2" height="139" fill="#A3E636"/>
+  <text x="48" y="400" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#A3E636" letter-spacing="0.6">Verso 2.0</text>
+  <rect x="153.8" y="385" width="87" height="20" fill="none" stroke="#8B8B8B" stroke-width="1"/>
+  <text x="197.3" y="398.8" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="10.5" font-weight="700" fill="#8B8B8B" letter-spacing="0.8">FULL-STACK</text>
+  <text x="832" y="400" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11" font-weight="400" fill="#8B8B8B">github.com/TheRealNightmare/Verso2.0</text>
+  <text x="48" y="426" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">A digital library. Read EPUB and PDF in the browser, join collaborative reading</text>
+  <text x="48" y="447" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" font-weight="400" fill="#E6E6E6">rooms, get AI recommendations, and moderate it all from a Filament admin panel.</text>
+  <rect x="48" y="474" width="79.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="87.8" y="490.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">React 19</text>
+  <rect x="134.6" y="474" width="94" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="181.6" y="490.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Laravel 13</text>
+  <rect x="235.6" y="474" width="72.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="271.8" y="490.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">PHP 8.3</text>
+  <rect x="315" y="474" width="79.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="354.8" y="490.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Filament</text>
+  <rect x="401.6" y="474" width="79.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="441.4" y="490.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#8B8B8B">Tailwind</text>
+  <rect x="24" y="525" width="832" height="52" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <text x="48" y="556" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#FFDC58" letter-spacing="1.6">ALSO BUILT</text>
+  <rect x="154" y="539" width="180.4" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="244.2" y="555.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#E6E6E6">Ray Tracing · C + SDL2</text>
+  <rect x="341.4" y="539" width="223.6" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="453.2" y="555.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#E6E6E6">micrograd · autograd by hand</text>
+  <rect x="572" y="539" width="173.2" height="24" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="1"/>
+  <text x="658.6" y="555.2" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#E6E6E6">Laravel Microservices</text>
 </svg>

@@ -7,6 +7,8 @@
   <circle cx="62" cy="41" r="5" fill="#FFDC58"/>
   <circle cx="80" cy="41" r="5" fill="#A3E636"/>
   <text x="112" y="45" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">mirazul@nightmare: ~</text>
+  <text x="836" y="45" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#A3E636">open to work</text>
+  <circle cx="737.6" cy="41" r="4" fill="#A3E636"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
   <g shape-rendering="geometricPrecision">
   <line x1="716.0" y1="75.0" x2="716.0" y2="66.0" stroke="#2A2A2A" stroke-width="1"/>
   <line x1="762.0" y1="87.3" x2="766.5" y2="79.5" stroke="#2A2A2A" stroke-width="1"/>
@@ -43,10 +45,11 @@
   <circle cx="716" cy="167" r="18" fill="none" stroke="#A3E636" stroke-width="1" opacity="0.25"/>
   <circle cx="716" cy="167" r="10" fill="#A3E636"><animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="56" y="118" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#A3E636">$ whoami</text>
-  <text x="56" y="170" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="38" font-weight="700" fill="#E6E6E6" letter-spacing="1.5">MIRAZUL ISLAM NAHID</text>
-  <text x="56" y="200" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="400" fill="#8B8B8B">full-stack developer · machine learning · always shipping</text>
-  <text x="56" y="236" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">Dhaka, Bangladesh · @Moner-Bondhu · github.com/TheRealNightmare</text>
-  <text x="56" y="262" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#A3E636">$</text>
-  <rect x="72" y="251" width="9" height="14" fill="#A3E636"/>
+  <text x="56" y="112" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#A3E636">$ whoami</text>
+  <text x="56" y="162" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="38" font-weight="700" fill="#E6E6E6" letter-spacing="1.5">MIRAZUL ISLAM NAHID</text>
+  <text x="56" y="192" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#FFDC58">software developer · full-stack web · ML</text>
+  <text x="56" y="220" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">Dhaka, BD · @Moner-Bondhu · CSE @ UIU</text>
+  <text x="56" y="258" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="500" fill="#A3E636">$</text>
+  <text x="72" y="258" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="400" fill="#E6E6E6">open mirazulislamnahid.com</text>
+  <rect x="296.4" y="246.8" width="8.68" height="14" fill="#A3E636"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </svg>

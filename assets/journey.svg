@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 292" width="880" height="292" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="292" fill="#0D0D0D"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">02</text>
+  <text x="54" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#2A2A2A">//</text>
+  <text x="82" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6" letter-spacing="2.4">JOURNEY</text>
+  <rect x="24" y="60" width="832" height="208" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="24" y="60" width="2" height="208" fill="#FFDC58"/>
+  <rect x="174" y="90" width="1" height="148" fill="#2A2A2A"/>
+  <text x="50" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#A3E636" letter-spacing="1">JUN 2025</text>
+  <text x="50" y="120" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">→ now</text>
+  <g shape-rendering="geometricPrecision"><circle cx="174.5" cy="95" r="5" fill="#161616" stroke="#A3E636" stroke-width="2"/>
+  <circle cx="174.5" cy="95" r="5" fill="none" stroke="#A3E636" stroke-width="1"><animate attributeName="r" values="5;13" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="202" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6">Software Developer</text>
+  <text x="202" y="122" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">@ Moner Bondhu</text>
+  <text x="202" y="144" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">Laravel + Vue product work, and the Docker/Linux plumbing that ships it.</text>
+  <text x="50" y="192" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#FFDC58" letter-spacing="1">2023</text>
+  <text x="50" y="212" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">→ now</text>
+  <g shape-rendering="geometricPrecision"><circle cx="174.5" cy="187" r="5" fill="#161616" stroke="#FFDC58" stroke-width="2"/>
+  <circle cx="174.5" cy="187" r="5" fill="none" stroke="#FFDC58" stroke-width="1"><animate attributeName="r" values="5;13" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="202" y="192" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6">BSc, Computer Science &amp; Engineering</text>
+  <text x="202" y="214" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">@ United International University</text>
+  <text x="202" y="236" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#8B8B8B">9th trimester. Player Koi and ScrollSense both started as lab projects here.</text>
+</svg>

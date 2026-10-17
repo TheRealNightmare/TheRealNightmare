@@ -1,17 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 208" width="880" height="208" shape-rendering="crispEdges">
-  <rect x="0" y="0" width="880" height="208" fill="#0D0D0D"/>
-  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">02</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 242" width="880" height="242" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="880" height="242" fill="#0D0D0D"/>
+  <text x="24" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FFDC58" letter-spacing="1">03</text>
   <text x="54" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#2A2A2A">//</text>
   <text x="82" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6E6E6" letter-spacing="2.4">CURRENTLY</text>
-  <rect x="24" y="60" width="832" height="124" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
-  <rect x="24" y="60" width="2" height="124" fill="#FFDC58"/>
+  <rect x="24" y="60" width="832" height="158" fill="#161616" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="24" y="60" width="2" height="158" fill="#FFDC58"/>
   <text x="50" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
-  <text x="68" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">learning</text>
-  <text x="152" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">built micrograd from scratch — autograd, backprop, the lot</text>
+  <text x="68" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">reading</text>
+  <text x="152" y="100" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">ML research papers, one at a time, notes on everything</text>
   <text x="50" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
-  <text x="68" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">training</text>
-  <text x="152" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">working through PyTorch and transformer fine-tuning</text>
+  <text x="68" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">writing</text>
+  <text x="152" y="130" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#E6E6E6">working toward my first ML research paper</text>
+  <rect x="477.8" y="119.6" width="8.06" height="13" fill="#A3E636"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
   <text x="50" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
-  <text x="68" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">next</text>
-  <text x="152" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">shipping models into the apps I already build</text>
+  <text x="68" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">shipped</text>
+  <text x="152" y="160" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">Player Koi + ScrollSense, both written up on the blog</text>
+  <text x="50" y="190" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#A3E636">$</text>
+  <text x="68" y="190" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="500" fill="#FFDC58">building</text>
+  <text x="152" y="190" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="400" fill="#8B8B8B">web products at Moner Bondhu, Laravel + Vue</text>
 </svg>
