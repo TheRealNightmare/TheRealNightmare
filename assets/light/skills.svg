@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 570" width="880" height="570" shape-rendering="crispEdges">
+  <defs>
+    <g id="i-scroll"><path d="M2 2h20v2h-20zM0 4h2v2h-2zM22 4h2v2h-2zM2 6h2v2h-2zM20 6h2v2h-2zM2 8h2v2h-2zM20 8h2v2h-2zM2 10h2v2h-2zM20 10h2v2h-2zM2 12h2v2h-2zM20 12h2v2h-2zM2 14h2v2h-2zM20 14h2v2h-2zM2 16h2v2h-2zM20 16h2v2h-2zM0 18h2v2h-2zM22 18h2v2h-2zM2 20h20v2h-20z" fill="#1f2328"/><path d="M4 6h16v2h-16zM4 8h2v2h-2zM18 8h2v2h-2zM4 10h16v2h-16zM4 12h2v2h-2zM14 12h6v2h-6zM4 14h16v2h-16zM4 16h2v2h-2zM18 16h2v2h-2z" fill="#f2e2b8"/><path d="M2 4h20v2h-20zM2 18h20v2h-20z" fill="#c9a96e"/><path d="M6 8h12v2h-12zM6 12h8v2h-8zM6 16h12v2h-12z" fill="#6b4f2a"/></g>
+    <g id="i-potion"><path d="M8 0h8v2h-8zM8 2h2v2h-2zM14 2h2v2h-2zM8 4h8v2h-8zM8 6h2v2h-2zM14 6h2v2h-2zM6 8h2v2h-2zM16 8h2v2h-2zM4 10h2v2h-2zM18 10h2v2h-2zM2 12h2v2h-2zM20 12h2v2h-2zM2 14h2v2h-2zM20 14h2v2h-2zM2 16h2v2h-2zM20 16h2v2h-2zM2 18h2v2h-2zM20 18h2v2h-2zM4 20h2v2h-2zM18 20h2v2h-2zM6 22h12v2h-12z" fill="#1f2328"/><path d="M12 6h2v2h-2zM10 8h6v2h-6zM8 10h10v2h-10zM6 12h2v2h-2zM10 12h10v2h-10zM4 14h16v2h-16zM4 16h8v2h-8zM14 16h6v2h-6zM4 18h16v2h-16zM6 20h12v2h-12z" fill="#a371f7"/><path d="M10 6h2v2h-2zM8 8h2v2h-2zM6 10h2v2h-2zM4 12h2v2h-2zM8 12h2v2h-2zM12 16h2v2h-2z" fill="#e9ffc2"/><path d="M10 2h4v2h-4z" fill="#9a6634"/></g>
+    <g id="i-gem"><path d="M6 2h12v2h-12zM4 4h2v2h-2zM18 4h2v2h-2zM2 6h2v2h-2zM20 6h2v2h-2zM0 8h2v2h-2zM22 8h2v2h-2zM2 10h2v2h-2zM20 10h2v2h-2zM4 12h2v2h-2zM18 12h2v2h-2zM6 14h2v2h-2zM16 14h2v2h-2zM8 16h2v2h-2zM14 16h2v2h-2zM10 18h4v2h-4z" fill="#1f2328"/><path d="M6 4h2v2h-2zM16 4h2v2h-2zM4 6h2v2h-2zM18 6h2v2h-2z" fill="#e9ffc2"/><path d="M8 4h8v2h-8zM6 6h12v2h-12zM2 8h20v2h-20zM4 10h16v2h-16zM6 12h12v2h-12zM8 14h8v2h-8zM10 16h4v2h-4z" fill="#84cc16"/></g>
+    <g id="i-sword"><path d="M20 0h4v2h-4zM18 2h2v2h-2zM22 2h2v2h-2zM16 4h2v2h-2zM22 4h2v2h-2zM14 6h2v2h-2zM20 6h2v2h-2zM12 8h2v2h-2zM18 8h2v2h-2zM10 10h2v2h-2zM16 10h2v2h-2zM4 12h2v2h-2zM8 12h2v2h-2zM14 12h2v2h-2zM4 14h2v2h-2zM8 14h2v2h-2zM12 14h2v2h-2zM6 16h2v2h-2zM12 16h2v2h-2zM4 18h2v2h-2zM8 18h2v2h-2zM14 18h2v2h-2zM2 20h2v2h-2zM6 20h2v2h-2zM12 20h4v2h-4zM2 22h4v2h-4z" fill="#1f2328"/><path d="M20 2h2v2h-2zM18 4h2v2h-2zM16 6h2v2h-2zM14 8h2v2h-2zM12 10h2v2h-2zM10 12h2v2h-2z" fill="#e9ffc2"/><path d="M6 18h2v2h-2zM4 20h2v2h-2z" fill="#9a6634"/><path d="M20 4h2v2h-2zM18 6h2v2h-2zM16 8h2v2h-2zM14 10h2v2h-2zM12 12h2v2h-2zM10 14h2v2h-2z" fill="#8c959f"/><path d="M6 14h2v2h-2zM8 16h4v2h-4zM10 18h4v2h-4z" fill="#e0a800"/></g>
+    <g id="i-chip"><path d="M2 2h20v2h-20zM2 4h2v2h-2zM20 4h2v2h-2zM2 6h2v2h-2zM20 6h2v2h-2zM2 8h2v2h-2zM20 8h2v2h-2zM2 10h2v2h-2zM20 10h2v2h-2zM2 12h2v2h-2zM20 12h2v2h-2zM2 14h2v2h-2zM20 14h2v2h-2zM2 16h2v2h-2zM20 16h2v2h-2zM2 18h2v2h-2zM20 18h2v2h-2zM2 20h20v2h-20z" fill="#1f2328"/><path d="M4 0h2v2h-2zM8 0h2v2h-2zM14 0h2v2h-2zM18 0h2v2h-2zM0 4h2v2h-2zM22 4h2v2h-2zM0 8h2v2h-2zM8 8h8v2h-8zM22 8h2v2h-2zM8 10h2v2h-2zM12 10h4v2h-4zM8 12h8v2h-8zM0 14h2v2h-2zM8 14h8v2h-8zM22 14h2v2h-2zM0 18h2v2h-2zM22 18h2v2h-2zM4 22h2v2h-2zM8 22h2v2h-2zM14 22h2v2h-2zM18 22h2v2h-2z" fill="#8c959f"/><path d="M4 4h16v2h-16zM4 6h16v2h-16zM4 8h4v2h-4zM16 8h4v2h-4zM4 10h4v2h-4zM16 10h4v2h-4zM4 12h4v2h-4zM16 12h4v2h-4zM4 14h4v2h-4zM16 14h4v2h-4zM4 16h16v2h-16zM4 18h16v2h-16z" fill="#59636e"/><path d="M10 10h2v2h-2z" fill="#a3e636"/></g>
+    <g id="i-cloud"><path d="M8 4h8v2h-8zM6 6h2v2h-2zM16 6h2v2h-2zM2 8h6v2h-6zM18 8h4v2h-4zM0 10h2v2h-2zM22 10h2v2h-2zM0 12h2v2h-2zM22 12h2v2h-2zM0 14h2v2h-2zM22 14h2v2h-2zM2 16h2v2h-2zM20 16h2v2h-2zM4 18h16v2h-16z" fill="#1f2328"/><path d="M8 6h8v2h-8zM8 8h10v2h-10zM2 10h20v2h-20zM2 12h20v2h-20zM2 14h18v2h-18z" fill="#ffffff"/><path d="M20 14h2v2h-2zM4 16h16v2h-16z" fill="#54aeff"/></g>
+  </defs>
+  <path d="M21 26h842v3h3v534h-3v3h-842v-3h-3v-534h3z" fill="#d1d9e0"/>
+  <path d="M17 22h842v3h3v534h-3v3h-842v-3h-3v-534h3z" fill="#1f2328"/>
+  <rect x="17" y="25" width="842" height="534" fill="#ffffff"/>
+  <rect x="20" y="28" width="836" height="528" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <path d="M37 7h122v3h3v24h-3v3h-122v-3h-3v-24h3z" fill="#1f2328"/>
+  <rect x="37" y="10" width="122" height="24" fill="#ffffff"/>
+  <path d="M45 15h10v2h-10zM49 17h2v2h-2zM49 19h2v2h-2zM49 21h2v2h-2zM49 23h2v2h-2zM49 25h2v2h-2zM45 27h10v2h-10zM57 15h2v2h-2zM65 15h2v2h-2zM57 17h4v2h-4zM65 17h2v2h-2zM57 19h2v2h-2zM61 19h2v2h-2zM65 19h2v2h-2zM57 21h2v2h-2zM63 21h4v2h-4zM57 23h2v2h-2zM65 23h2v2h-2zM57 25h2v2h-2zM65 25h2v2h-2zM57 27h2v2h-2zM65 27h2v2h-2zM69 15h2v2h-2zM77 15h2v2h-2zM69 17h2v2h-2zM77 17h2v2h-2zM69 19h2v2h-2zM77 19h2v2h-2zM69 21h2v2h-2zM77 21h2v2h-2zM69 23h2v2h-2zM77 23h2v2h-2zM71 25h2v2h-2zM75 25h2v2h-2zM73 27h2v2h-2zM81 15h10v2h-10zM81 17h2v2h-2zM81 19h2v2h-2zM81 21h8v2h-8zM81 23h2v2h-2zM81 25h2v2h-2zM81 27h10v2h-10zM93 15h2v2h-2zM101 15h2v2h-2zM93 17h4v2h-4zM101 17h2v2h-2zM93 19h2v2h-2zM97 19h2v2h-2zM101 19h2v2h-2zM93 21h2v2h-2zM99 21h4v2h-4zM93 23h2v2h-2zM101 23h2v2h-2zM93 25h2v2h-2zM101 25h2v2h-2zM93 27h2v2h-2zM101 27h2v2h-2zM105 15h10v2h-10zM109 17h2v2h-2zM109 19h2v2h-2zM109 21h2v2h-2zM109 23h2v2h-2zM109 25h2v2h-2zM109 27h2v2h-2zM119 15h6v2h-6zM117 17h2v2h-2zM125 17h2v2h-2zM117 19h2v2h-2zM125 19h2v2h-2zM117 21h2v2h-2zM125 21h2v2h-2zM117 23h2v2h-2zM125 23h2v2h-2zM117 25h2v2h-2zM125 25h2v2h-2zM119 27h6v2h-6zM129 15h8v2h-8zM129 17h2v2h-2zM137 17h2v2h-2zM129 19h2v2h-2zM137 19h2v2h-2zM129 21h8v2h-8zM129 23h2v2h-2zM133 23h2v2h-2zM129 25h2v2h-2zM135 25h2v2h-2zM129 27h2v2h-2zM137 27h2v2h-2zM141 15h2v2h-2zM149 15h2v2h-2zM141 17h2v2h-2zM149 17h2v2h-2zM143 19h2v2h-2zM147 19h2v2h-2zM145 21h2v2h-2zM145 23h2v2h-2zM145 25h2v2h-2zM145 27h2v2h-2z" fill="#3f6212"/>
+  <path d="M688 34h4.5v1.5h-4.5zM686.5 35.5h1.5v1.5h-1.5zM686.5 37h1.5v1.5h-1.5zM686.5 38.5h6v1.5h-6zM686.5 40h1.5v1.5h-1.5zM692.5 40h1.5v1.5h-1.5zM686.5 41.5h1.5v1.5h-1.5zM692.5 41.5h1.5v1.5h-1.5zM688 43h4.5v1.5h-4.5zM704.5 34h6v1.5h-6zM704.5 35.5h1.5v1.5h-1.5zM710.5 35.5h1.5v1.5h-1.5zM704.5 37h1.5v1.5h-1.5zM710.5 37h1.5v1.5h-1.5zM704.5 38.5h6v1.5h-6zM704.5 40h1.5v1.5h-1.5zM710.5 40h1.5v1.5h-1.5zM704.5 41.5h1.5v1.5h-1.5zM710.5 41.5h1.5v1.5h-1.5zM704.5 43h6v1.5h-6zM715 34h4.5v1.5h-4.5zM713.5 35.5h1.5v1.5h-1.5zM719.5 35.5h1.5v1.5h-1.5zM713.5 37h1.5v1.5h-1.5zM719.5 37h1.5v1.5h-1.5zM713.5 38.5h7.5v1.5h-7.5zM713.5 40h1.5v1.5h-1.5zM719.5 40h1.5v1.5h-1.5zM713.5 41.5h1.5v1.5h-1.5zM719.5 41.5h1.5v1.5h-1.5zM713.5 43h1.5v1.5h-1.5zM719.5 43h1.5v1.5h-1.5zM724 34h4.5v1.5h-4.5zM722.5 35.5h1.5v1.5h-1.5zM728.5 35.5h1.5v1.5h-1.5zM722.5 37h1.5v1.5h-1.5zM722.5 38.5h1.5v1.5h-1.5zM725.5 38.5h4.5v1.5h-4.5zM722.5 40h1.5v1.5h-1.5zM728.5 40h1.5v1.5h-1.5zM722.5 41.5h1.5v1.5h-1.5zM728.5 41.5h1.5v1.5h-1.5zM724 43h6v1.5h-6zM733 34h6v1.5h-6zM731.5 35.5h1.5v1.5h-1.5zM731.5 37h1.5v1.5h-1.5zM733 38.5h4.5v1.5h-4.5zM737.5 40h1.5v1.5h-1.5zM737.5 41.5h1.5v1.5h-1.5zM731.5 43h6v1.5h-6zM749.5 38.5h7.5v1.5h-7.5zM767.5 34h6v1.5h-6zM773.5 35.5h1.5v1.5h-1.5zM773.5 37h1.5v1.5h-1.5zM769 38.5h4.5v1.5h-4.5zM773.5 40h1.5v1.5h-1.5zM773.5 41.5h1.5v1.5h-1.5zM767.5 43h6v1.5h-6zM778 34h4.5v1.5h-4.5zM776.5 35.5h1.5v1.5h-1.5zM782.5 35.5h1.5v1.5h-1.5zM776.5 37h1.5v1.5h-1.5zM782.5 37h1.5v1.5h-1.5zM778 38.5h6v1.5h-6zM782.5 40h1.5v1.5h-1.5zM782.5 41.5h1.5v1.5h-1.5zM778 43h4.5v1.5h-4.5zM794.5 34h7.5v1.5h-7.5zM797.5 35.5h1.5v1.5h-1.5zM797.5 37h1.5v1.5h-1.5zM797.5 38.5h1.5v1.5h-1.5zM797.5 40h1.5v1.5h-1.5zM797.5 41.5h1.5v1.5h-1.5zM794.5 43h7.5v1.5h-7.5zM803.5 34h7.5v1.5h-7.5zM806.5 35.5h1.5v1.5h-1.5zM806.5 37h1.5v1.5h-1.5zM806.5 38.5h1.5v1.5h-1.5zM806.5 40h1.5v1.5h-1.5zM806.5 41.5h1.5v1.5h-1.5zM806.5 43h1.5v1.5h-1.5zM812.5 34h7.5v1.5h-7.5zM812.5 35.5h1.5v1.5h-1.5zM812.5 37h1.5v1.5h-1.5zM812.5 38.5h6v1.5h-6zM812.5 40h1.5v1.5h-1.5zM812.5 41.5h1.5v1.5h-1.5zM812.5 43h7.5v1.5h-7.5zM821.5 34h1.5v1.5h-1.5zM827.5 34h1.5v1.5h-1.5zM821.5 35.5h3v1.5h-3zM826 35.5h3v1.5h-3zM821.5 37h1.5v1.5h-1.5zM824.5 37h1.5v1.5h-1.5zM827.5 37h1.5v1.5h-1.5zM821.5 38.5h1.5v1.5h-1.5zM824.5 38.5h1.5v1.5h-1.5zM827.5 38.5h1.5v1.5h-1.5zM821.5 40h1.5v1.5h-1.5zM827.5 40h1.5v1.5h-1.5zM821.5 41.5h1.5v1.5h-1.5zM827.5 41.5h1.5v1.5h-1.5zM821.5 43h1.5v1.5h-1.5zM827.5 43h1.5v1.5h-1.5zM832 34h6v1.5h-6zM830.5 35.5h1.5v1.5h-1.5zM830.5 37h1.5v1.5h-1.5zM832 38.5h4.5v1.5h-4.5zM836.5 40h1.5v1.5h-1.5zM836.5 41.5h1.5v1.5h-1.5zM830.5 43h6v1.5h-6z" fill="#59636e"/>
+  <rect x="38" y="52" width="392" height="166" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+  <use href="#i-scroll" x="54" y="62"/>
+  <path d="M86 68h2v2h-2zM86 70h2v2h-2zM86 72h2v2h-2zM86 74h2v2h-2zM86 76h2v2h-2zM86 78h2v2h-2zM86 80h10v2h-10zM100 68h6v2h-6zM98 70h2v2h-2zM106 70h2v2h-2zM98 72h2v2h-2zM106 72h2v2h-2zM98 74h10v2h-10zM98 76h2v2h-2zM106 76h2v2h-2zM98 78h2v2h-2zM106 78h2v2h-2zM98 80h2v2h-2zM106 80h2v2h-2zM110 68h2v2h-2zM118 68h2v2h-2zM110 70h4v2h-4zM118 70h2v2h-2zM110 72h2v2h-2zM114 72h2v2h-2zM118 72h2v2h-2zM110 74h2v2h-2zM116 74h4v2h-4zM110 76h2v2h-2zM118 76h2v2h-2zM110 78h2v2h-2zM118 78h2v2h-2zM110 80h2v2h-2zM118 80h2v2h-2zM124 68h6v2h-6zM122 70h2v2h-2zM130 70h2v2h-2zM122 72h2v2h-2zM122 74h2v2h-2zM126 74h6v2h-6zM122 76h2v2h-2zM130 76h2v2h-2zM122 78h2v2h-2zM130 78h2v2h-2zM124 80h8v2h-8zM134 68h2v2h-2zM142 68h2v2h-2zM134 70h2v2h-2zM142 70h2v2h-2zM134 72h2v2h-2zM142 72h2v2h-2zM134 74h2v2h-2zM142 74h2v2h-2zM134 76h2v2h-2zM142 76h2v2h-2zM134 78h2v2h-2zM142 78h2v2h-2zM136 80h6v2h-6zM148 68h6v2h-6zM146 70h2v2h-2zM154 70h2v2h-2zM146 72h2v2h-2zM154 72h2v2h-2zM146 74h10v2h-10zM146 76h2v2h-2zM154 76h2v2h-2zM146 78h2v2h-2zM154 78h2v2h-2zM146 80h2v2h-2zM154 80h2v2h-2zM160 68h6v2h-6zM158 70h2v2h-2zM166 70h2v2h-2zM158 72h2v2h-2zM158 74h2v2h-2zM162 74h6v2h-6zM158 76h2v2h-2zM166 76h2v2h-2zM158 78h2v2h-2zM166 78h2v2h-2zM160 80h8v2h-8zM170 68h10v2h-10zM170 70h2v2h-2zM170 72h2v2h-2zM170 74h8v2h-8zM170 76h2v2h-2zM170 78h2v2h-2zM170 80h10v2h-10zM184 68h8v2h-8zM182 70h2v2h-2zM182 72h2v2h-2zM184 74h6v2h-6zM190 76h2v2h-2zM190 78h2v2h-2zM182 80h8v2h-8z" fill="#3f6212"/>
+  <path d="M397.5 70h1.5v1.5h-1.5zM403.5 70h1.5v1.5h-1.5zM397.5 71.5h1.5v1.5h-1.5zM403.5 71.5h1.5v1.5h-1.5zM399 73h1.5v1.5h-1.5zM402 73h1.5v1.5h-1.5zM400.5 74.5h1.5v1.5h-1.5zM399 76h1.5v1.5h-1.5zM402 76h1.5v1.5h-1.5zM397.5 77.5h1.5v1.5h-1.5zM403.5 77.5h1.5v1.5h-1.5zM397.5 79h1.5v1.5h-1.5zM403.5 79h1.5v1.5h-1.5zM408 70h4.5v1.5h-4.5zM406.5 71.5h1.5v1.5h-1.5zM412.5 71.5h1.5v1.5h-1.5zM406.5 73h1.5v1.5h-1.5zM412.5 73h1.5v1.5h-1.5zM408 74.5h6v1.5h-6zM412.5 76h1.5v1.5h-1.5zM412.5 77.5h1.5v1.5h-1.5zM408 79h4.5v1.5h-4.5z" fill="#59636e"/>
+  <rect x="54" y="96" width="91.2" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="97" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="57" y="99"/>
+  <text x="92" y="115.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Python</text>
+  <rect x="153.2" y="96" width="120" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="154.2" y="97" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="156.2" y="99"/>
+  <text x="191.2" y="115.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">TypeScript</text>
+  <rect x="54" y="134" width="120" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="135" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="57" y="137"/>
+  <text x="92" y="153.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">JavaScript</text>
+  <rect x="182" y="134" width="69.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="183" y="135" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="185" y="137"/>
+  <text x="220" y="153.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">PHP</text>
+  <rect x="259.6" y="134" width="55.2" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="260.6" y="135" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="262.6" y="137"/>
+  <text x="297.6" y="153.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">C</text>
+  <rect x="54" y="172" width="69.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="173" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="57" y="175"/>
+  <text x="92" y="191.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">C++</text>
+  <rect x="131.6" y="172" width="76.8" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="132.6" y="173" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="134.6" y="175"/>
+  <text x="169.6" y="191.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Java</text>
+  <rect x="216.4" y="172" width="69.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="217.4" y="173" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="219.4" y="175"/>
+  <text x="254.4" y="191.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">SQL</text>
+  <rect x="294" y="172" width="76.8" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="295" y="173" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-scroll" x="297" y="175"/>
+  <text x="332" y="191.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Bash</text>
+  <rect x="446" y="52" width="392" height="166" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+  <use href="#i-potion" x="462" y="62"/>
+  <path d="M496 68h6v2h-6zM494 70h2v2h-2zM502 70h2v2h-2zM494 72h2v2h-2zM502 72h2v2h-2zM494 74h10v2h-10zM494 76h2v2h-2zM502 76h2v2h-2zM494 78h2v2h-2zM502 78h2v2h-2zM494 80h2v2h-2zM502 80h2v2h-2zM506 68h10v2h-10zM510 70h2v2h-2zM510 72h2v2h-2zM510 74h2v2h-2zM510 76h2v2h-2zM510 78h2v2h-2zM506 80h10v2h-10zM538 68h2v2h-2zM538 70h2v2h-2zM536 72h2v2h-2zM534 74h2v2h-2zM532 76h2v2h-2zM530 78h2v2h-2zM530 80h2v2h-2zM554 68h2v2h-2zM562 68h2v2h-2zM554 70h4v2h-4zM560 70h4v2h-4zM554 72h2v2h-2zM558 72h2v2h-2zM562 72h2v2h-2zM554 74h2v2h-2zM558 74h2v2h-2zM562 74h2v2h-2zM554 76h2v2h-2zM562 76h2v2h-2zM554 78h2v2h-2zM562 78h2v2h-2zM554 80h2v2h-2zM562 80h2v2h-2zM566 68h2v2h-2zM566 70h2v2h-2zM566 72h2v2h-2zM566 74h2v2h-2zM566 76h2v2h-2zM566 78h2v2h-2zM566 80h10v2h-10z" fill="#9a6700"/>
+  <path d="M805.5 70h1.5v1.5h-1.5zM811.5 70h1.5v1.5h-1.5zM805.5 71.5h1.5v1.5h-1.5zM811.5 71.5h1.5v1.5h-1.5zM807 73h1.5v1.5h-1.5zM810 73h1.5v1.5h-1.5zM808.5 74.5h1.5v1.5h-1.5zM807 76h1.5v1.5h-1.5zM810 76h1.5v1.5h-1.5zM805.5 77.5h1.5v1.5h-1.5zM811.5 77.5h1.5v1.5h-1.5zM805.5 79h1.5v1.5h-1.5zM811.5 79h1.5v1.5h-1.5zM814.5 70h7.5v1.5h-7.5zM820.5 71.5h1.5v1.5h-1.5zM819 73h1.5v1.5h-1.5zM817.5 74.5h1.5v1.5h-1.5zM816 76h1.5v1.5h-1.5zM816 77.5h1.5v1.5h-1.5zM816 79h1.5v1.5h-1.5z" fill="#59636e"/>
+  <rect x="462" y="96" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="97" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="465" y="99"/>
+  <text x="500" y="115.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">PyTorch</text>
+  <rect x="568.4" y="96" width="134.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="569.4" y="97" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="571.4" y="99"/>
+  <text x="606.4" y="115.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Transformers</text>
+  <rect x="462" y="134" width="84" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="135" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="465" y="137"/>
+  <text x="500" y="153.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">NumPy</text>
+  <rect x="554" y="134" width="91.2" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="555" y="135" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="557" y="137"/>
+  <text x="592" y="153.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Pandas</text>
+  <rect x="653.2" y="134" width="134.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="654.2" y="135" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="656.2" y="137"/>
+  <text x="691.2" y="153.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">scikit-learn</text>
+  <rect x="462" y="172" width="91.2" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="173" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="465" y="175"/>
+  <text x="500" y="191.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">OpenCV</text>
+  <rect x="561.2" y="172" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="562.2" y="173" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-potion" x="564.2" y="175"/>
+  <text x="599.2" y="191.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Jupyter</text>
+  <rect x="38" y="234" width="392" height="128" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+  <use href="#i-gem" x="54" y="244"/>
+  <path d="M86 250h10v2h-10zM86 252h2v2h-2zM86 254h2v2h-2zM86 256h8v2h-8zM86 258h2v2h-2zM86 260h2v2h-2zM86 262h2v2h-2zM98 250h8v2h-8zM98 252h2v2h-2zM106 252h2v2h-2zM98 254h2v2h-2zM106 254h2v2h-2zM98 256h8v2h-8zM98 258h2v2h-2zM102 258h2v2h-2zM98 260h2v2h-2zM104 260h2v2h-2zM98 262h2v2h-2zM106 262h2v2h-2zM112 250h6v2h-6zM110 252h2v2h-2zM118 252h2v2h-2zM110 254h2v2h-2zM118 254h2v2h-2zM110 256h2v2h-2zM118 256h2v2h-2zM110 258h2v2h-2zM118 258h2v2h-2zM110 260h2v2h-2zM118 260h2v2h-2zM112 262h6v2h-6zM122 250h2v2h-2zM130 250h2v2h-2zM122 252h4v2h-4zM130 252h2v2h-2zM122 254h2v2h-2zM126 254h2v2h-2zM130 254h2v2h-2zM122 256h2v2h-2zM128 256h4v2h-4zM122 258h2v2h-2zM130 258h2v2h-2zM122 260h2v2h-2zM130 260h2v2h-2zM122 262h2v2h-2zM130 262h2v2h-2zM134 250h10v2h-10zM138 252h2v2h-2zM138 254h2v2h-2zM138 256h2v2h-2zM138 258h2v2h-2zM138 260h2v2h-2zM138 262h2v2h-2zM146 250h10v2h-10zM146 252h2v2h-2zM146 254h2v2h-2zM146 256h8v2h-8zM146 258h2v2h-2zM146 260h2v2h-2zM146 262h10v2h-10zM158 250h2v2h-2zM166 250h2v2h-2zM158 252h4v2h-4zM166 252h2v2h-2zM158 254h2v2h-2zM162 254h2v2h-2zM166 254h2v2h-2zM158 256h2v2h-2zM164 256h4v2h-4zM158 258h2v2h-2zM166 258h2v2h-2zM158 260h2v2h-2zM166 260h2v2h-2zM158 262h2v2h-2zM166 262h2v2h-2zM170 250h8v2h-8zM170 252h2v2h-2zM178 252h2v2h-2zM170 254h2v2h-2zM178 254h2v2h-2zM170 256h2v2h-2zM178 256h2v2h-2zM170 258h2v2h-2zM178 258h2v2h-2zM170 260h2v2h-2zM178 260h2v2h-2zM170 262h8v2h-8z" fill="#3f6212"/>
+  <path d="M397.5 252h1.5v1.5h-1.5zM403.5 252h1.5v1.5h-1.5zM397.5 253.5h1.5v1.5h-1.5zM403.5 253.5h1.5v1.5h-1.5zM399 255h1.5v1.5h-1.5zM402 255h1.5v1.5h-1.5zM400.5 256.5h1.5v1.5h-1.5zM399 258h1.5v1.5h-1.5zM402 258h1.5v1.5h-1.5zM397.5 259.5h1.5v1.5h-1.5zM403.5 259.5h1.5v1.5h-1.5zM397.5 261h1.5v1.5h-1.5zM403.5 261h1.5v1.5h-1.5zM408 252h4.5v1.5h-4.5zM406.5 253.5h1.5v1.5h-1.5zM406.5 255h1.5v1.5h-1.5zM406.5 256.5h6v1.5h-6zM406.5 258h1.5v1.5h-1.5zM412.5 258h1.5v1.5h-1.5zM406.5 259.5h1.5v1.5h-1.5zM412.5 259.5h1.5v1.5h-1.5zM408 261h4.5v1.5h-4.5z" fill="#59636e"/>
+  <rect x="54" y="278" width="112.8" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="279" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-gem" x="57" y="281"/>
+  <text x="92" y="297.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">SvelteKit</text>
+  <rect x="174.8" y="278" width="84" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="175.8" y="279" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-gem" x="177.8" y="281"/>
+  <text x="212.8" y="297.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">React</text>
+  <rect x="266.8" y="278" width="69.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="267.8" y="279" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-gem" x="269.8" y="281"/>
+  <text x="304.8" y="297.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Vue</text>
+  <rect x="54" y="316" width="76.8" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="317" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-gem" x="57" y="319"/>
+  <text x="92" y="335.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Nuxt</text>
+  <rect x="138.8" y="316" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="139.8" y="317" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-gem" x="141.8" y="319"/>
+  <text x="176.8" y="335.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Next.js</text>
+  <rect x="245.2" y="316" width="105.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="246.2" y="317" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-gem" x="248.2" y="319"/>
+  <text x="283.2" y="335.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Tailwind</text>
+  <rect x="446" y="234" width="392" height="128" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+  <use href="#i-sword" x="462" y="244"/>
+  <path d="M494 250h8v2h-8zM494 252h2v2h-2zM502 252h2v2h-2zM494 254h2v2h-2zM502 254h2v2h-2zM494 256h8v2h-8zM494 258h2v2h-2zM502 258h2v2h-2zM494 260h2v2h-2zM502 260h2v2h-2zM494 262h8v2h-8zM508 250h6v2h-6zM506 252h2v2h-2zM514 252h2v2h-2zM506 254h2v2h-2zM514 254h2v2h-2zM506 256h10v2h-10zM506 258h2v2h-2zM514 258h2v2h-2zM506 260h2v2h-2zM514 260h2v2h-2zM506 262h2v2h-2zM514 262h2v2h-2zM520 250h6v2h-6zM518 252h2v2h-2zM526 252h2v2h-2zM518 254h2v2h-2zM518 256h2v2h-2zM518 258h2v2h-2zM518 260h2v2h-2zM526 260h2v2h-2zM520 262h6v2h-6zM530 250h2v2h-2zM538 250h2v2h-2zM530 252h2v2h-2zM536 252h2v2h-2zM530 254h2v2h-2zM534 254h2v2h-2zM530 256h4v2h-4zM530 258h2v2h-2zM534 258h2v2h-2zM530 260h2v2h-2zM536 260h2v2h-2zM530 262h2v2h-2zM538 262h2v2h-2zM542 250h10v2h-10zM542 252h2v2h-2zM542 254h2v2h-2zM542 256h8v2h-8zM542 258h2v2h-2zM542 260h2v2h-2zM542 262h10v2h-10zM554 250h2v2h-2zM562 250h2v2h-2zM554 252h4v2h-4zM562 252h2v2h-2zM554 254h2v2h-2zM558 254h2v2h-2zM562 254h2v2h-2zM554 256h2v2h-2zM560 256h4v2h-4zM554 258h2v2h-2zM562 258h2v2h-2zM554 260h2v2h-2zM562 260h2v2h-2zM554 262h2v2h-2zM562 262h2v2h-2zM566 250h8v2h-8zM566 252h2v2h-2zM574 252h2v2h-2zM566 254h2v2h-2zM574 254h2v2h-2zM566 256h2v2h-2zM574 256h2v2h-2zM566 258h2v2h-2zM574 258h2v2h-2zM566 260h2v2h-2zM574 260h2v2h-2zM566 262h8v2h-8z" fill="#9a6700"/>
+  <path d="M805.5 252h1.5v1.5h-1.5zM811.5 252h1.5v1.5h-1.5zM805.5 253.5h1.5v1.5h-1.5zM811.5 253.5h1.5v1.5h-1.5zM807 255h1.5v1.5h-1.5zM810 255h1.5v1.5h-1.5zM808.5 256.5h1.5v1.5h-1.5zM807 258h1.5v1.5h-1.5zM810 258h1.5v1.5h-1.5zM805.5 259.5h1.5v1.5h-1.5zM811.5 259.5h1.5v1.5h-1.5zM805.5 261h1.5v1.5h-1.5zM811.5 261h1.5v1.5h-1.5zM816 252h4.5v1.5h-4.5zM814.5 253.5h1.5v1.5h-1.5zM814.5 255h1.5v1.5h-1.5zM814.5 256.5h6v1.5h-6zM814.5 258h1.5v1.5h-1.5zM820.5 258h1.5v1.5h-1.5zM814.5 259.5h1.5v1.5h-1.5zM820.5 259.5h1.5v1.5h-1.5zM816 261h4.5v1.5h-4.5z" fill="#59636e"/>
+  <rect x="462" y="278" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="279" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-sword" x="465" y="281"/>
+  <text x="500" y="297.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Laravel</text>
+  <rect x="568.4" y="278" width="105.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="569.4" y="279" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-sword" x="571.4" y="281"/>
+  <text x="606.4" y="297.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Filament</text>
+  <rect x="682" y="278" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="683" y="279" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-sword" x="685" y="281"/>
+  <text x="720" y="297.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">FastAPI</text>
+  <rect x="462" y="316" width="91.2" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="317" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-sword" x="465" y="319"/>
+  <text x="500" y="335.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Django</text>
+  <rect x="561.2" y="316" width="84" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="562.2" y="317" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-sword" x="564.2" y="319"/>
+  <text x="599.2" y="335.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Flask</text>
+  <rect x="653.2" y="316" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="654.2" y="317" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-sword" x="656.2" y="319"/>
+  <text x="691.2" y="335.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Node.js</text>
+  <rect x="38" y="378" width="392" height="166" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+  <use href="#i-chip" x="54" y="388"/>
+  <path d="M86 394h2v2h-2zM94 394h2v2h-2zM86 396h2v2h-2zM94 396h2v2h-2zM86 398h2v2h-2zM94 398h2v2h-2zM86 400h10v2h-10zM86 402h2v2h-2zM94 402h2v2h-2zM86 404h2v2h-2zM94 404h2v2h-2zM86 406h2v2h-2zM94 406h2v2h-2zM100 394h6v2h-6zM98 396h2v2h-2zM106 396h2v2h-2zM98 398h2v2h-2zM106 398h2v2h-2zM98 400h10v2h-10zM98 402h2v2h-2zM106 402h2v2h-2zM98 404h2v2h-2zM106 404h2v2h-2zM98 406h2v2h-2zM106 406h2v2h-2zM110 394h8v2h-8zM110 396h2v2h-2zM118 396h2v2h-2zM110 398h2v2h-2zM118 398h2v2h-2zM110 400h8v2h-8zM110 402h2v2h-2zM114 402h2v2h-2zM110 404h2v2h-2zM116 404h2v2h-2zM110 406h2v2h-2zM118 406h2v2h-2zM122 394h8v2h-8zM122 396h2v2h-2zM130 396h2v2h-2zM122 398h2v2h-2zM130 398h2v2h-2zM122 400h2v2h-2zM130 400h2v2h-2zM122 402h2v2h-2zM130 402h2v2h-2zM122 404h2v2h-2zM130 404h2v2h-2zM122 406h8v2h-8zM134 394h2v2h-2zM142 394h2v2h-2zM134 396h2v2h-2zM142 396h2v2h-2zM134 398h2v2h-2zM142 398h2v2h-2zM134 400h2v2h-2zM138 400h2v2h-2zM142 400h2v2h-2zM134 402h2v2h-2zM138 402h2v2h-2zM142 402h2v2h-2zM134 404h2v2h-2zM138 404h2v2h-2zM142 404h2v2h-2zM136 406h2v2h-2zM140 406h2v2h-2zM148 394h6v2h-6zM146 396h2v2h-2zM154 396h2v2h-2zM146 398h2v2h-2zM154 398h2v2h-2zM146 400h10v2h-10zM146 402h2v2h-2zM154 402h2v2h-2zM146 404h2v2h-2zM154 404h2v2h-2zM146 406h2v2h-2zM154 406h2v2h-2zM158 394h8v2h-8zM158 396h2v2h-2zM166 396h2v2h-2zM158 398h2v2h-2zM166 398h2v2h-2zM158 400h8v2h-8zM158 402h2v2h-2zM162 402h2v2h-2zM158 404h2v2h-2zM164 404h2v2h-2zM158 406h2v2h-2zM166 406h2v2h-2zM170 394h10v2h-10zM170 396h2v2h-2zM170 398h2v2h-2zM170 400h8v2h-8zM170 402h2v2h-2zM170 404h2v2h-2zM170 406h10v2h-10z" fill="#3f6212"/>
+  <path d="M397.5 396h1.5v1.5h-1.5zM403.5 396h1.5v1.5h-1.5zM397.5 397.5h1.5v1.5h-1.5zM403.5 397.5h1.5v1.5h-1.5zM399 399h1.5v1.5h-1.5zM402 399h1.5v1.5h-1.5zM400.5 400.5h1.5v1.5h-1.5zM399 402h1.5v1.5h-1.5zM402 402h1.5v1.5h-1.5zM397.5 403.5h1.5v1.5h-1.5zM403.5 403.5h1.5v1.5h-1.5zM397.5 405h1.5v1.5h-1.5zM403.5 405h1.5v1.5h-1.5zM411 396h1.5v1.5h-1.5zM409.5 397.5h3v1.5h-3zM408 399h1.5v1.5h-1.5zM411 399h1.5v1.5h-1.5zM406.5 400.5h1.5v1.5h-1.5zM411 400.5h1.5v1.5h-1.5zM406.5 402h7.5v1.5h-7.5zM411 403.5h1.5v1.5h-1.5zM411 405h1.5v1.5h-1.5z" fill="#59636e"/>
+  <rect x="54" y="422" width="134.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="423" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-chip" x="57" y="425"/>
+  <text x="92" y="441.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Raspberry Pi</text>
+  <rect x="196.4" y="422" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="197.4" y="423" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-chip" x="199.4" y="425"/>
+  <text x="234.4" y="441.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Arduino</text>
+  <rect x="54" y="460" width="84" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="55" y="461" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-chip" x="57" y="463"/>
+  <text x="92" y="479.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">ESP32</text>
+  <rect x="146" y="460" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="147" y="461" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-chip" x="149" y="463"/>
+  <text x="184" y="479.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Android</text>
+  <rect x="446" y="378" width="392" height="166" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+  <use href="#i-cloud" x="462" y="388"/>
+  <path d="M494 394h8v2h-8zM494 396h2v2h-2zM502 396h2v2h-2zM494 398h2v2h-2zM502 398h2v2h-2zM494 400h2v2h-2zM502 400h2v2h-2zM494 402h2v2h-2zM502 402h2v2h-2zM494 404h2v2h-2zM502 404h2v2h-2zM494 406h8v2h-8zM506 394h10v2h-10zM506 396h2v2h-2zM506 398h2v2h-2zM506 400h8v2h-8zM506 402h2v2h-2zM506 404h2v2h-2zM506 406h10v2h-10zM518 394h2v2h-2zM526 394h2v2h-2zM518 396h2v2h-2zM526 396h2v2h-2zM518 398h2v2h-2zM526 398h2v2h-2zM518 400h2v2h-2zM526 400h2v2h-2zM518 402h2v2h-2zM526 402h2v2h-2zM520 404h2v2h-2zM524 404h2v2h-2zM522 406h2v2h-2zM532 394h6v2h-6zM530 396h2v2h-2zM538 396h2v2h-2zM530 398h2v2h-2zM538 398h2v2h-2zM530 400h2v2h-2zM538 400h2v2h-2zM530 402h2v2h-2zM538 402h2v2h-2zM530 404h2v2h-2zM538 404h2v2h-2zM532 406h6v2h-6zM542 394h8v2h-8zM542 396h2v2h-2zM550 396h2v2h-2zM542 398h2v2h-2zM550 398h2v2h-2zM542 400h8v2h-8zM542 402h2v2h-2zM542 404h2v2h-2zM542 406h2v2h-2zM556 394h8v2h-8zM554 396h2v2h-2zM554 398h2v2h-2zM556 400h6v2h-6zM562 402h2v2h-2zM562 404h2v2h-2zM554 406h8v2h-8zM586 394h2v2h-2zM586 396h2v2h-2zM584 398h2v2h-2zM582 400h2v2h-2zM580 402h2v2h-2zM578 404h2v2h-2zM578 406h2v2h-2zM604 394h6v2h-6zM602 396h2v2h-2zM610 396h2v2h-2zM602 398h2v2h-2zM602 400h2v2h-2zM602 402h2v2h-2zM602 404h2v2h-2zM610 404h2v2h-2zM604 406h6v2h-6zM614 394h2v2h-2zM614 396h2v2h-2zM614 398h2v2h-2zM614 400h2v2h-2zM614 402h2v2h-2zM614 404h2v2h-2zM614 406h10v2h-10zM628 394h6v2h-6zM626 396h2v2h-2zM634 396h2v2h-2zM626 398h2v2h-2zM634 398h2v2h-2zM626 400h2v2h-2zM634 400h2v2h-2zM626 402h2v2h-2zM634 402h2v2h-2zM626 404h2v2h-2zM634 404h2v2h-2zM628 406h6v2h-6zM638 394h2v2h-2zM646 394h2v2h-2zM638 396h2v2h-2zM646 396h2v2h-2zM638 398h2v2h-2zM646 398h2v2h-2zM638 400h2v2h-2zM646 400h2v2h-2zM638 402h2v2h-2zM646 402h2v2h-2zM638 404h2v2h-2zM646 404h2v2h-2zM640 406h6v2h-6zM650 394h8v2h-8zM650 396h2v2h-2zM658 396h2v2h-2zM650 398h2v2h-2zM658 398h2v2h-2zM650 400h2v2h-2zM658 400h2v2h-2zM650 402h2v2h-2zM658 402h2v2h-2zM650 404h2v2h-2zM658 404h2v2h-2zM650 406h8v2h-8z" fill="#9a6700"/>
+  <path d="M805.5 396h1.5v1.5h-1.5zM811.5 396h1.5v1.5h-1.5zM805.5 397.5h1.5v1.5h-1.5zM811.5 397.5h1.5v1.5h-1.5zM807 399h1.5v1.5h-1.5zM810 399h1.5v1.5h-1.5zM808.5 400.5h1.5v1.5h-1.5zM807 402h1.5v1.5h-1.5zM810 402h1.5v1.5h-1.5zM805.5 403.5h1.5v1.5h-1.5zM811.5 403.5h1.5v1.5h-1.5zM805.5 405h1.5v1.5h-1.5zM811.5 405h1.5v1.5h-1.5zM814.5 396h7.5v1.5h-7.5zM820.5 397.5h1.5v1.5h-1.5zM819 399h1.5v1.5h-1.5zM817.5 400.5h1.5v1.5h-1.5zM816 402h1.5v1.5h-1.5zM816 403.5h1.5v1.5h-1.5zM816 405h1.5v1.5h-1.5z" fill="#59636e"/>
+  <rect x="462" y="422" width="91.2" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="423" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="465" y="425"/>
+  <text x="500" y="441.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Docker</text>
+  <rect x="561.2" y="422" width="69.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="562.2" y="423" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="564.2" y="425"/>
+  <text x="599.2" y="441.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">AWS</text>
+  <rect x="462" y="460" width="120" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="461" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="465" y="463"/>
+  <text x="500" y="479.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Cloudflare</text>
+  <rect x="590" y="460" width="120" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="591" y="461" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="593" y="463"/>
+  <text x="628" y="479.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Kubernetes</text>
+  <rect x="462" y="498" width="98.4" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="463" y="499" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="465" y="501"/>
+  <text x="500" y="517.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Actions</text>
+  <rect x="568.4" y="498" width="84" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="569.4" y="499" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="571.4" y="501"/>
+  <text x="606.4" y="517.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Linux</text>
+  <rect x="660.4" y="498" width="69.6" height="30" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="661.4" y="499" width="28" height="28" fill="#f6f8fa"/>
+  <use href="#i-cloud" x="663.4" y="501"/>
+  <text x="698.4" y="517.3" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#1f2328">Git</text>
+</svg>

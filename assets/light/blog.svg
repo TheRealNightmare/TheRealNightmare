@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 78" width="880" height="78" shape-rendering="crispEdges">
+  <path d="M21 14h842v3h3v52h-3v3h-842v-3h-3v-52h3z" fill="#d1d9e0"/>
+  <path d="M17 10h842v3h3v52h-3v3h-842v-3h-3v-52h3z" fill="#1f2328"/>
+  <rect x="17" y="13" width="842" height="52" fill="#ffffff"/>
+  <rect x="20" y="16" width="836" height="46" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <path d="M44 23h22v2h-22zM42 25h2v2h-2zM66 25h2v2h-2zM42 27h2v2h-2zM66 27h2v2h-2zM42 29h2v2h-2zM66 29h2v2h-2zM42 31h2v2h-2zM66 31h2v2h-2zM42 33h2v2h-2zM66 33h2v2h-2zM42 35h2v2h-2zM66 35h2v2h-2zM42 37h2v2h-2zM66 37h2v2h-2zM42 39h2v2h-2zM66 39h2v2h-2zM42 41h2v2h-2zM66 41h2v2h-2zM42 43h2v2h-2zM66 43h2v2h-2zM42 45h2v2h-2zM68 45h2v2h-2zM42 47h2v2h-2zM68 47h2v2h-2zM44 49h24v2h-24z" fill="#1f2328"/>
+  <path d="M44 45h24v2h-24z" fill="#f2e2b8"/>
+  <path d="M44 47h24v2h-24z" fill="#c9a96e"/>
+  <path d="M52 31h2v2h-2z" fill="#e9ffc2"/>
+  <path d="M46 27h16v2h-16zM46 29h2v2h-2zM60 29h2v2h-2zM46 31h2v2h-2zM60 31h2v2h-2zM46 33h2v2h-2zM60 33h2v2h-2zM46 35h16v2h-16z" fill="#e0a800"/>
+  <path d="M44 43h22v2h-22z" fill="#2e2160"/>
+  <path d="M44 25h22v2h-22zM44 27h2v2h-2zM62 27h4v2h-4zM44 29h2v2h-2zM48 29h12v2h-12zM62 29h4v2h-4zM44 31h2v2h-2zM48 31h4v2h-4zM54 31h6v2h-6zM62 31h4v2h-4zM44 33h2v2h-2zM48 33h12v2h-12zM62 33h4v2h-4zM44 35h2v2h-2zM62 35h4v2h-4zM44 37h22v2h-22zM44 39h22v2h-22zM44 41h22v2h-22z" fill="#a371f7"/>
+  <path d="M87 28h9v3h-9zM84 31h3v3h-3zM96 31h3v3h-3zM84 34h3v3h-3zM96 34h3v3h-3zM84 37h3v3h-3zM96 37h3v3h-3zM84 40h3v3h-3zM90 40h3v3h-3zM96 40h3v3h-3zM84 43h3v3h-3zM93 43h3v3h-3zM87 46h6v3h-6zM96 46h3v3h-3zM102 28h3v3h-3zM114 28h3v3h-3zM102 31h3v3h-3zM114 31h3v3h-3zM102 34h3v3h-3zM114 34h3v3h-3zM102 37h3v3h-3zM114 37h3v3h-3zM102 40h3v3h-3zM114 40h3v3h-3zM102 43h3v3h-3zM114 43h3v3h-3zM105 46h9v3h-9zM120 28h15v3h-15zM120 31h3v3h-3zM120 34h3v3h-3zM120 37h12v3h-12zM120 40h3v3h-3zM120 43h3v3h-3zM120 46h15v3h-15zM141 28h12v3h-12zM138 31h3v3h-3zM138 34h3v3h-3zM141 37h9v3h-9zM150 40h3v3h-3zM150 43h3v3h-3zM138 46h12v3h-12zM156 28h15v3h-15zM162 31h3v3h-3zM162 34h3v3h-3zM162 37h3v3h-3zM162 40h3v3h-3zM162 43h3v3h-3zM162 46h3v3h-3zM192 28h3v3h-3zM192 31h3v3h-3zM192 34h3v3h-3zM192 37h3v3h-3zM192 40h3v3h-3zM192 43h3v3h-3zM192 46h15v3h-15zM213 28h9v3h-9zM210 31h3v3h-3zM222 31h3v3h-3zM210 34h3v3h-3zM222 34h3v3h-3zM210 37h3v3h-3zM222 37h3v3h-3zM210 40h3v3h-3zM222 40h3v3h-3zM210 43h3v3h-3zM222 43h3v3h-3zM213 46h9v3h-9zM231 28h9v3h-9zM228 31h3v3h-3zM240 31h3v3h-3zM228 34h3v3h-3zM228 37h3v3h-3zM234 37h9v3h-9zM228 40h3v3h-3zM240 40h3v3h-3zM228 43h3v3h-3zM240 43h3v3h-3zM231 46h12v3h-12z" fill="#3f6212"/>
+  <text x="838" y="44" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" font-weight="400" fill="#59636e">latest entries from the blog</text>
+</svg>

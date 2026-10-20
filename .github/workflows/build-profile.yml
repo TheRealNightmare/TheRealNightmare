@@ -1,0 +1,49 @@
+name: build profile
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 09:17 in Dhaka
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # GITHUB_TOKEN only sees public activity. To count private contributions
+      # too, add a classic PAT (read:user) as the GH_STATS_TOKEN repo secret.
+      - name: Fetch stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: python3 tools/fetch_stats.py
+
+      - name: Build SVGs and README
+        run: python3 tools/build_readme_assets.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md tools/stats.json
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "chore: refresh profile stats"
+            git push
+          fi

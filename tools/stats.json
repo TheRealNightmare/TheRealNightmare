@@ -1,0 +1,37 @@
+{
+  "contributions_year": 1583,
+  "contributions_total": 1583,
+  "streak_current": 0,
+  "streak_longest": 12,
+  "stars": 4,
+  "repos": 19,
+  "followers": 31,
+  "since": 2021,
+  "languages": [
+    {
+      "name": "Jupyter Notebook",
+      "pct": 48.4
+    },
+    {
+      "name": "Python",
+      "pct": 10.4
+    },
+    {
+      "name": "PHP",
+      "pct": 9.4
+    },
+    {
+      "name": "CSS",
+      "pct": 8.7
+    },
+    {
+      "name": "JavaScript",
+      "pct": 8.2
+    },
+    {
+      "name": "Blade",
+      "pct": 6.0
+    }
+  ],
+  "updated": "2026-10-20"
+}
