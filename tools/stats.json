@@ -1,8 +1,8 @@
 {
-  "contributions_year": 1827,
-  "contributions_total": 2321,
-  "streak_current": 13,
-  "streak_longest": 13,
+  "contributions_year": 1836,
+  "contributions_total": 2330,
+  "streak_current": 15,
+  "streak_longest": 15,
   "stars": 5,
   "repos": 20,
   "followers": 31,
@@ -10,28 +10,28 @@
   "languages": [
     {
       "name": "Jupyter Notebook",
-      "pct": 40.3
+      "pct": 38.7
     },
     {
       "name": "Python",
-      "pct": 15.0
+      "pct": 16.9
     },
     {
       "name": "JavaScript",
-      "pct": 12.5
+      "pct": 12.0
     },
     {
       "name": "CSS",
-      "pct": 8.0
+      "pct": 7.7
     },
     {
       "name": "PHP",
-      "pct": 7.8
+      "pct": 7.5
     },
     {
       "name": "TypeScript",
-      "pct": 5.7
+      "pct": 6.9
     }
   ],
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
